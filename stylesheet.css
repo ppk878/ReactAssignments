@@ -1,0 +1,41 @@
+h1,h2,h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    background-color: #ddd;
+}
+.container article{
+    padding: 10px auto;
+    margin-bottom: 10px;
+    font-size: 18px;
+    background: #fff;
+    font-family: sans-serif;
+}
+.image{
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 80%;
+}
+ul li{
+    background: #fff;
+    
+}
+ ul{
+    margin-top: 10px;
+}
+body{
+    background-color: #eee;
+}
+footer{
+    text-align: center;
+    background-color: rgb(161, 155, 155);
+    border-radius: 50px;
+    width: 30%;
+    padding: 0;
+    margin: 10px;
+    float: right;
+}
+footer a:hover{
+    color: red;
+}
